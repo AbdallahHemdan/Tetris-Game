@@ -1,0 +1,24 @@
+﻿Build started 6/13/2019 09:54:58 ص.
+     1>Project "C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\tetris_tutorial_sdl.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (tetris_tutorial_sdl.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp
+         Game.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\Release\Tetris Game.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\Release\Tetris Game.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\Release\Tetris Game.lib" /MACHINE:X86 /SAFESEH:NO Release\Board.obj
+         Release\Game.obj
+         Release\IO.obj
+         Release\Main.obj
+         Release\Pieces.obj
+            Creating library C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\Release\Tetris Game.lib and object C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\Release\Tetris Game.exp
+         Generating code
+         3 of 35 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         tetris_tutorial_sdl.vcxproj -> C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\Release\Tetris Game.exe
+     1>Done Building Project "C:\Users\ِAbdallah Hemdan\Desktop\Tetris-Game\tetris_tutorial_sdl\tetris_tutorial_sdl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
