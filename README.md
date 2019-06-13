@@ -2,6 +2,10 @@
 
 This is My Implementation of ```Tetris Game``` using C++/SDL
 
+## 📽 Demo
+![output1](https://user-images.githubusercontent.com/40190772/59419230-bcaee700-8dca-11e9-859a-6056615db8e2.gif)
+
+
 ## 💿 How to Get it
 1. __Clone or download the Repository__
 2. __Extract it any where (e.g Desktop)__
