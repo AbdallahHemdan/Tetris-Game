@@ -1,8 +1,14 @@
 # 🧩 Tetris Game
+-----------------
+[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Tetris-Game)](https://github.com/AbdallahHemdan/Tetris-Game/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Tetris-Game)](https://github.com/AbdallahHemdan/Tetris-Game/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Tetris-Game)](https://github.com/AbdallahHemdan/Tetris-Game/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Tetris-Game)](https://github.com/AbdallahHemdan/Tetris-Game/blob/master/LICENSE)
 
-This is My Implementation of ```Tetris Game``` using C++/SDL
+• This is My Implementation of ```Tetris Game``` using C++/SDL
 
 ## 📽 Demo
+----------
 ![output1](https://user-images.githubusercontent.com/40190772/59419230-bcaee700-8dca-11e9-859a-6056615db8e2.gif)
 
 
